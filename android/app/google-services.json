@@ -1,0 +1,166 @@
+{
+  "project_info": {
+    "project_number": "187788958576",
+    "project_id": "qareeb-31d01",
+    "storage_bucket": "qareeb-31d01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187788958576:android:d320a73432e8549d544db5",
+        "android_client_info": {
+          "package_name": "com.qareeb.tager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187788958576-49tgr70p4of5s0a9s59565nchd6tip6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qareeb.tager",
+            "certificate_hash": "1ae5f3b5dd4c9049e8ef8741e9befcb94cac80aa"
+          }
+        },
+        {
+          "client_id": "187788958576-mthkek4pbp6f028gsdq0dtd1hj4ubjj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qareeb.tager",
+            "certificate_hash": "0d70f8a4c1fc97214247b6fd246cc52280182efc"
+          }
+        },
+        {
+          "client_id": "187788958576-33qaag5pdoal3o983te6il5dc10b006c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9XW8Ha8hxRG1SJONcJ7wzY5pQJpkR-Os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187788958576-33qaag5pdoal3o983te6il5dc10b006c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "187788958576-24j7mgkc3s43uodg28eu9p6mqpabcg40.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qareeb.store"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187788958576:android:f6a1b7f9dcbeca16544db5",
+        "android_client_info": {
+          "package_name": "com.semicolon.qareeb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187788958576-7raa4s5vgqfkgdjt8htsfr67m9mjo4iu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.semicolon.qareeb",
+            "certificate_hash": "0d70f8a4c1fc97214247b6fd246cc52280182efc"
+          }
+        },
+        {
+          "client_id": "187788958576-l2421hmq316pfo43rgi7cfkauo7t6cc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.semicolon.qareeb",
+            "certificate_hash": "1ae5f3b5dd4c9049e8ef8741e9befcb94cac80aa"
+          }
+        },
+        {
+          "client_id": "187788958576-33qaag5pdoal3o983te6il5dc10b006c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9XW8Ha8hxRG1SJONcJ7wzY5pQJpkR-Os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187788958576-33qaag5pdoal3o983te6il5dc10b006c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "187788958576-24j7mgkc3s43uodg28eu9p6mqpabcg40.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qareeb.store"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187788958576:android:39db1258287c5ca9544db5",
+        "android_client_info": {
+          "package_name": "com.qareeb.deliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187788958576-3cdifnmkruffqngbmld5ittmpb1t6b70.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qareeb.deliveryboy",
+            "certificate_hash": "1ae5f3b5dd4c9049e8ef8741e9befcb94cac80aa"
+          }
+        },
+        {
+          "client_id": "187788958576-sc156e07frhub13ophv9fmd563uvdj5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qareeb.deliveryboy",
+            "certificate_hash": "0d70f8a4c1fc97214247b6fd246cc52280182efc"
+          }
+        },
+        {
+          "client_id": "187788958576-33qaag5pdoal3o983te6il5dc10b006c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9XW8Ha8hxRG1SJONcJ7wzY5pQJpkR-Os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187788958576-33qaag5pdoal3o983te6il5dc10b006c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "187788958576-24j7mgkc3s43uodg28eu9p6mqpabcg40.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qareeb.store"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
